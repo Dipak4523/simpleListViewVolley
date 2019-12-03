@@ -86,4 +86,6 @@ class MainActivity : AppCompatActivity() {
      fun data(a:Int,b:String){
 
      }
+    
+    //https://github.com/alphamu/android-MVVM-DataBinding-RecyclerViewExample?source=post_page-----d9c659236908----------------------
 }
